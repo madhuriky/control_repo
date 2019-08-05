@@ -1,2 +1,2 @@
 # control_repo
-Fun puppet stuff
+Fun puppet stuff!!
